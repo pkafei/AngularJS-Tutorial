@@ -16,6 +16,8 @@
                     <li ng-repeat="person in people | filter:searchText" ng-hide="person.live == false">#{{person.id}} {{person.name}}</li>
 
                 </ul>
+                <input type="type" ng-model="newPerson" />
+                <button ng-click="addNew()">Add</button>
 
             </div>
         </body>
