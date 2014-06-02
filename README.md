@@ -1,7 +1,7 @@
 # Unambitious Tutorial on Angular JS
 http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/
 
-This is just me learning about the basics of Angular.js tutorial by Leon Revill.
+This is just me learning about the basics of Angular.js using a tutorial written by Leon Revill.
 
 Some of the topics covered includes:
 * controllers
